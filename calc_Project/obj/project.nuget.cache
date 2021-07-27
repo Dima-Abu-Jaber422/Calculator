@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pt9RAj1y51mj8KLtLfHTAsMIxAAkTDRsJDBTB6ezaTj7oEFtS680J0UHh8LBAQZFYbYGkWTwq3AwDZzHqi/JWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\calc_Project\\calc_Project\\calc_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

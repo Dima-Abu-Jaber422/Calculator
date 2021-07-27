@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.exe
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.deps.json
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.runtimeconfig.json
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.runtimeconfig.dev.json
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.dll
+C:\Users\user\source\repos\calc_Project\calc_Project\bin\Debug\netcoreapp3.1\calc_Project.pdb
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.csprojAssemblyReference.cache
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.Form1.resources
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.AssemblyInfo.cs
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.dll
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.pdb
+C:\Users\user\source\repos\calc_Project\calc_Project\obj\Debug\netcoreapp3.1\calc_Project.genruntimeconfig.cache
